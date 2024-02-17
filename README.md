@@ -1,5 +1,9 @@
+<div align="center">
 
-<h1 align="center">42 SEOUL</h1>
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/eunwolee?1337Badge=off&UM6P=off" alt="eunwolee's 42 stats" /></a>
-</p>
+# 42 SEOUL
+[![eunwolee's 42 stats](https://badge.mediaplus.ma/darkblue/eunwolee?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+# Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lkjin0110)](https://solved.ac/lkjin0110)
+
+</div>
