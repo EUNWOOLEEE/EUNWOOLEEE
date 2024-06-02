@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20eunwoo&fontSize=50)
 
 ## 🧸 Introduction
-- 42Seoul, student (2022.11.7 ~)
+- [42Seoul](https://42seoul.kr/seoul42/main/view), student (2022.11.7 ~)
 
 ## 🔍 Skills
 ![C Icon](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
