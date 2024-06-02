@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20eunwoo&fontSize=50)
 
-## 🧸 Introduntion
+## 🧸 Introduction
 - 42Seoul, student (2022.11.7 ~)
 
 ## 🔍 Skills
