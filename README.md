@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20eunwoo&fontSize=50)
 
-<div align="center">
-
 ## 42 SEOUL
 [![eunwolee's 42 stats](https://badge.mediaplus.ma/darkgray/eunwolee?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -16,4 +14,3 @@
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EUNWOOLEEE&layout=compact&theme=onedark)
 
-</div>
