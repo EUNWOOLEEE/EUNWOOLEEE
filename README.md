@@ -7,6 +7,7 @@
 ![C Icon](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Cplusplus Icon](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git Icon](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Java Icon](https://img.shields.io/badge/Java-007396?style=flat&logo=&logoColor=white)
 ![JS Icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML Icon](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS Icon](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -17,6 +18,7 @@
 ![Docker Icon](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vim Icon](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code Icon](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-flat&logo=IntelliJ%20IDEA&logoColor=white)
 
 ## 💌 Cards
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEUNWOOLEEE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
