@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20eunwoo&fontSize=50)
 
 ## 🧸 Introduction
-- [42Seoul](https://42seoul.kr/seoul42/main/view), student (2022.11.7 ~)
+- École 42([42Seoul](https://42seoul.kr/seoul42/main/view)), Computer Science, Member (2022.11.7 ~)
 
 ## ☎️ Contact
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@eunwolee/posts)
