@@ -3,6 +3,9 @@
 ## 🧸 Introduction
 - [42Seoul](https://42seoul.kr/seoul42/main/view), student (2022.11.7 ~)
 
+## ☎️ Contact
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@eunwolee/posts)
+
 ## 🔍 Skills
 ![C Icon](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Cplusplus Icon](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
