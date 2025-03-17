@@ -4,6 +4,7 @@
 
 ## 🧸 Introduction
 - École 42([42Seoul](https://42seoul.kr/seoul42/main/view)), Computer Science, Student (2022.11.7 ~)
+  - go [Repository](https://github.com/EUNWOOLEEE/42cursus)
 
 ## ☎️ Contact
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@eunwolee/posts)
