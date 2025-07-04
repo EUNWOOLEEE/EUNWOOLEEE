@@ -12,14 +12,18 @@
 ## 🔍 Skills
 ![C Icon](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Cplusplus Icon](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git Icon](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Java Icon](https://img.shields.io/badge/Java-007396?style=flat&logo=&logoColor=white)
+![Spring Icon](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL Icon](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 ![JS Icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML Icon](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS Icon](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Vue Icon](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Bootstrap Icon](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ## ⚙️ Tools
+![Git Icon](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Icon](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker Icon](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vim Icon](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
