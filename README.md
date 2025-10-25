@@ -4,7 +4,8 @@
 
 ## 🧸 Introduction
 - Korea National Open University (KNOU), B.S. in Computer Science, Enrolled (2025.09 ~ )
-- KB IT's your life, 6th Cohort, Completed (2025.03 ~ 2025.08)
+- KB IT's Your Life, 6th Cohort, Completed (2025.03 ~ 2025.08)
+  - go [Final Project](https://github.com/Halggeol)
 - École 42([42Seoul](https://42seoul.kr/seoul42/main/view)), 8th Cadet, Alumni (2022.11 ~ 2024.08)
   - go [Repository](https://github.com/EUNWOOLEEE/42cursus)
 
