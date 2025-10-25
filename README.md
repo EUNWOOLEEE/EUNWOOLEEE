@@ -3,7 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEUNWOOLEEE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🧸 Introduction
-- École 42([42Seoul](https://42seoul.kr/seoul42/main/view)), Computer Science, Student (2022.11.7 ~)
+- Korea National Open University (KNOU), B.S. in Computer Science, Enrolled (2025.09 ~ )
+- KB IT's your life, 6th Cohort, Completed (2025.03 ~ 2025.08)
+- École 42([42Seoul](https://42seoul.kr/seoul42/main/view)), 8th Cadet, Alumni (2022.11 ~ 2024.08)
   - go [Repository](https://github.com/EUNWOOLEEE/42cursus)
 
 ## ☎️ Contact
